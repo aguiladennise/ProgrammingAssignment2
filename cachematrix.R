@@ -1,4 +1,4 @@
-## We are task to to write a R function that can cache computations that may take a long time
+## We are task to to write an R function that can cache computations that may take a long time
 ## x will serves as matrix
 ## and s will serves as NULL
 
